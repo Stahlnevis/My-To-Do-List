@@ -1,0 +1,16 @@
+h1 {
+    color: #5fcffc ;
+    background-color: rgb(89,150,0);
+}
+
+button {
+    color: magenta;
+    background-color: cyan;
+}
+
+p { color: olive;
+    background-color: indigo;
+}
+body{
+    background-color: #000000;
+}
